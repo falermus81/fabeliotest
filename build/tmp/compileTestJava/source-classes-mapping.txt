@@ -1,0 +1,8 @@
+org/mycompany/pages/BasePage.java
+ org.mycompany.pages.BasePage
+org/mycompany/pages/HomePage.java
+ org.mycompany.pages.HomePage
+org/mycompany/pages/PagePool.java
+ org.mycompany.pages.PagePool
+org/mycompany/steps/HomePageSteps.java
+ org.mycompany.steps.HomePageSteps
